@@ -1,5 +1,7 @@
 ### Hi, I'm Alvaro
 
+[![CI](https://github.com/ju1010/notas/actions/workflows/ci.yml/badge.svg)](https://github.com/ju1010/notas/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/ju1010/notas/blob/main/LICENSE)
+
 Full-stack developer at CipByte, where I build APIs with NestJS and interfaces with Angular.
 I'm also studying Systems at UNaM, in Posadas, Argentina.
 
