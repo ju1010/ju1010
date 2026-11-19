@@ -8,6 +8,12 @@ I'm also studying Systems at UNaM, in Posadas, Argentina.
 Most of what I write at work lives in private repositories, so this profile is where the things
 I build on my own end up.
 
+#### Stack
+
+- **Backend:** NestJS, TypeORM, Mongoose, MySQL, MongoDB, Swagger
+- **Frontend:** Angular, TypeScript, Ionic
+- **Also:** Node.js, Python, Git
+
 #### Things I built
 
 - **[notas](https://github.com/ju1010/notas)** — a local notes app with a native window
